@@ -7,8 +7,12 @@ body {
 /* BANNER */
 .banner {
   
-  background: blue;
+.banner {
+  background-image: url("./imagem/huambo.jpg");
+  background-size: cover;
+  background-position: center;
   height: 300px;
+}
 
     
 }
