@@ -8,8 +8,8 @@ const produtos = [
   {
     nome: "TV LED 32 Polegadas",
     preco: "120.000 Kz",
-    imagem: "COLOCA_AQUI_LINK_DO_CLOUDINARY",
-    whatsapp: "2449XXXXXXXX"
+    imagem: "https://res.cloudinary.com/derpqbbd0/image/upload/v1770621095/download_1_qyasrk.jpg",
+    whatsapp: "244926870276"
   }
 ];
 
