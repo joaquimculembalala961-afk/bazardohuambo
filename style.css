@@ -3,16 +3,14 @@ body {
   margin: 0;
   background: #f4f4f4;
 }
-head{
-  background-image: url("imagem/huambo.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 300px;
-}
 
 /* BANNER */
 .banner {
+  
+  background: blue;
+  height: 300px;
 
+    
 }
 
 .overlay {
