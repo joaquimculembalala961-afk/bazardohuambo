@@ -59,13 +59,14 @@ footer {
   background: #ddd;
 }
 .banner {
-  background-image: url("huambo.jpg");
+  background-image: url("images/huambo.jpg");
   background-size: cover;
   background-position: center;
   height: 300px;
   position: relative;
 }
 
+/* camada escura por cima da imagem */
 .overlay {
   background: rgba(0, 0, 0, 0.5);
   height: 100%;
