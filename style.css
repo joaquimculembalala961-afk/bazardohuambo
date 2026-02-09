@@ -6,14 +6,11 @@ body {
 
 /* BANNER */
 .banner {
-  
-.banner {
-  background-image: url("./imagem/huambo.jpg");
+  background-image: url("huambo.jpg");
   background-size: cover;
   background-position: center;
   height: 300px;
-}
-
+  background-repeat: no-repeat;
     
 }
 
